@@ -16,13 +16,11 @@ A simple Node.js script to detect the language of a given text sample.
 
 Run the script with a text sample as an argument:
     
-    ```bash
     node language-detector.js "This is a sample text."
 
 ## Example
     
-    ```bash
-    $ node language-detector.js "Bonjour le monde"
+    node language-detector.js "Bonjour le monde"
     Detected Language: French
 
 ## License
